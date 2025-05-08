@@ -19,6 +19,11 @@
 
 name: Build and Deploy to ACK
 
+permissions:
+  contents: read
+  packages: write
+  id-token: write
+
 on:
   push:
     branches:
