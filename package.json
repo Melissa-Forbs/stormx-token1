@@ -36,7 +36,7 @@
     "truffle-hdwallet-provider": "1.0.17",
     "truffle": "5.9.0",
     "web3": "4.16.0",
-    "web3-utils": "4.2.1"
+    "web3-utils": "4.3.3"
   },
   "devDependencies": {
     "solhint": "6.0.0"
