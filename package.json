@@ -39,6 +39,6 @@
     "web3-utils": "4.2.1"
   },
   "devDependencies": {
-    "solhint": "1.4.0"
+    "solhint": "6.0.0"
   }
 }
