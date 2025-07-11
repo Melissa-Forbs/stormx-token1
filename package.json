@@ -31,7 +31,7 @@
     "coveralls": "3.1.1",
     "eslint": "9.30.1",
     "ganache-cli": "6.8.0-istanbul.0",
-    "solidity-bytes-utils": "0.8.3",
+    "solidity-bytes-utils": "0.8.4",
     "solidity-coverage": "0.7.22",
     "truffle-hdwallet-provider": "1.0.17",
     "truffle": "5.11.5",
